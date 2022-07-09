@@ -109,6 +109,7 @@ p.cart-button {
 
 button.btn:hover {
     cursor: pointer;
+}
 
 @media screen and (max-width: 375px) {
 
