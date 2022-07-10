@@ -103,9 +103,6 @@ button.btn {
 img.cart-image {
     margin: 10px;
 }
-Span.cart-button {
-    margin: 10px;
-}
 
 button.btn:hover {
     cursor: pointer;
